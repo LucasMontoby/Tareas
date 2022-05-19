@@ -1,2 +1,14 @@
-[    { "titulo":"Hacer app de tareas", "estado": "terminada"},
-    { "titulo":"Proyecto Integrador", "estado": "pendiente"}]
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Armar aplicación de Tareas",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Break",
+        "estado": "pendinte"
+    }
+]
